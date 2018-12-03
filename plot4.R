@@ -53,6 +53,7 @@ plot_submetering <- function()
          col=c("black","blue","red"),
          legend=c("Sub_metering_1","Sub_metering_2","Sub_metering_3"),
          lty=1, 
+         bty = "n",
          cex=0.8) 
   
   #lty as in line type can be:
